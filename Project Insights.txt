@@ -1,0 +1,101 @@
+Project Insights: Customer Churn Analysis
+
+# Key Metrics
+
+Total Customers: 7,032
+Churned Customers: 1,869
+Churn Rate: 26.58%
+Total Revenue: $16.06M
+Average Monthly Charges: $64.80
+Average Customer Tenure: 32 months
+
+
+# Customer Service Insights
+
+1. Churn by Number of Services:
+
+- Customers who subscribe to 2-5 services have the highest churn rates, peaking at 44.9% for 3 services.
+- Single-service customers (Phone Service only) have the lowest churn rate at 7.4%, indicating minimal retention efforts may be needed here.
+- Churn among Internet Service-only customers is notably high at 25%, whereas customers with both Phone and Internet services experience the highest churn at 32.8%.
+
+2. Churn by Internet Service Type:
+
+- Fiber Optic users exhibit higher churn compared to DSL users, possibly indicating dissatisfaction with service quality or pricing for Fiber Optic.
+
+3. Top Subscribed Services:
+
+- Phone Service has the highest subscription rate at 90.33%, followed by Internet Service at 78.38%. These services can serve as a primary focus for customer retention initiatives.
+
+# Customer Demographic and Account Insights
+
+1. Contract Type and Churn:
+
+- Customers with a monthly contract show a significantly higher churn rate of 23.54% compared to annual or biennial contracts, suggesting that longer-term contracts may encourage loyalty.
+
+2. Average Churn Tenure:
+
+- The average tenure for churned customers is 18 months, pointing to a critical period within the first two years where retention efforts should be concentrated.
+
+3. Senior Citizens:
+
+- Senior citizens have a churn rate of 70%, indicating a need for age-specific engagement strategies.
+
+4. Dependents and Churn:
+
+- Customers with dependents show a lower churn rate (16%) compared to those without (44%), suggesting that families or household-focused packages may promote retention.
+
+5. Partner Status and Churn:
+
+- Customers with a partner churn less (below 50%), whereas those without a partner have a 50% churn rate.
+
+6. Paperless Billing and Churn:
+
+- Paperless Billing customers exhibit a churn rate around 50%, which could indicate lower engagement with digital-only communication or potential billing concerns.
+
+7. Payment Method and Churn:
+
+- Customers using Electronic Check have the highest churn rate at 80%, in contrast to other payment methods (e.g., credit card, bank transfer), which may point to payment processing issues or less user-friendly experiences with Electronic Check.
+
+8. Tenure Segment and Churn:
+
+- New customers (tenure < 12 months) have a churn rate over 90%, suggesting the need for targeted onboarding and early engagement programs.
+- Longer-tenured customers (medium and long-term) show low churn rates, underscoring the value of established loyalty over time.
+
+
+# Targeted Retention Strategies
+
+1. Enhance Early Customer Engagement and Onboarding
+
+- Focus: New customers (tenure < 12 months) with a high churn risk.
+- Strategy: Implement a structured onboarding program, including educational resources, personalized check-ins, and special offers during the first year. Consider loyalty incentives or discounts to improve customer satisfaction early on.
+
+2. Promote Long-Term Contract Options
+
+- Focus: Monthly contract customers with high churn rates.
+- Strategy: Provide incentives for switching to annual or biennial contracts, like reduced monthly charges or free service add-ons. Longer contracts may encourage stability and lower churn.
+
+3. Develop Targeted Engagement for Internet Service Customers
+
+- Focus: Fiber Optic subscribers, who have higher churn rates than DSL.
+- Strategy: Conduct satisfaction surveys and address pain points, particularly around service quality and pricing. Offer Fiber Optic users a special package or upgrade options to DSL if feasible.
+
+4. Implement Age-Specific Retention Programs
+
+- Focus: Senior citizen customers with higher churn rates.
+- Strategy: Create age-friendly programs such as easy billing, customized support services, and senior-focused communication methods. Discounts or loyalty points may encourage retention among older customers.
+
+5. Address Payment Method Friction
+
+- Focus: Customers paying via Electronic Check.
+- Strategy: Offer a promotion or discount for switching to more reliable payment methods like credit cards or bank transfers. Consider evaluating potential user experience issues with the Electronic Check method.
+
+6. Customize Retention Offers for Family-Oriented and Partnered Customers
+
+- Focus: Customers with dependents and partners, who tend to churn less.
+- Strategy: Encourage continued engagement with family or multi-user packages that provide value for households, reinforcing retention within these customer groups.
+
+7. Paperless Billing Alternatives
+
+- Focus: Paperless Billing customers with a moderate churn rate.
+- Strategy: Send proactive billing reminders and engage customers with educational content on paperless benefits. Offer an option to switch back to paper billing to those who request it to reduce churn related to billing preferences.
+
